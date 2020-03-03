@@ -1,0 +1,4 @@
+Public class test {
+  int a=10,b=20;
+  System.Out.pritln("add two no:" a+b);
+  }
